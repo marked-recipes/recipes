@@ -1,5 +1,6 @@
 
-title:: Tuscan Style Roasted Chicken tags:: #chicken #italian 
+title:: Tuscan Style Roasted Chicken 
+tags:: #chicken #italian 
 
 ## Ingredients
 * One 6-pound whole chicken, cut into 8

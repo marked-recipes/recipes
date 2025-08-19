@@ -4,18 +4,18 @@ Type:: [[Resource]]
 title:: Tuscan Style Roasted Chicken 
 Tags:: #chicken #italian 
 
-## Ingredients
-    * One 6-pound whole chicken, cut into 8 pieces
-    * Kosher salt and freshly cracked black pepper
-    * Olive oil, for cooking
-    * 3 cloves garlic, sliced
-    * 4 ounces dry vermouth
-* 2 beefsteak tomatoes, cut into eighths
-* 1/2 cup pitted green olives (your favorite kind)
-* Small bundle fresh oregano, tied with butcher's twine
-* 1 1/2 cups chicken stock
-* 2 tablespoons unsalted butter
-* Fresh basil, torn, for serving
+- ## Ingredients
+    - One 6-pound whole chicken, cut into 8 pieces
+    - Kosher salt and freshly cracked black pepper
+    - Olive oil, for cooking
+    - 3 cloves garlic, sliced
+    - 4 ounces dry vermouth
+    - 2 beefsteak tomatoes, cut into eighths
+    - 1/2 cup pitted green olives (your favorite kind)
+    - Small bundle fresh oregano, tied with butcher's twine
+    - 1 1/2 cups chicken stock
+    - 2 tablespoons unsalted butter
+    - Fresh basil, torn, for serving
 
 - ## Directions
 - Set up a grill for cooking with direct and indirect heat. If using a charcoal grill, build the coals on one side only. If using a gas grill, heat one side only. Place a large cast-iron pan on the direct-heat side of the grill to preheat.

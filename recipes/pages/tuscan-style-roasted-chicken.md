@@ -5,12 +5,11 @@ title:: Tuscan Style Roasted Chicken
 Tags:: #chicken #italian 
 
 - ## Ingredients
-    - One 6-pound whole chicken, cut into 8
-    - pieces
-* Kosher salt and freshly cracked black pepper
-* Olive oil, for cooking
-* 3 cloves garlic, sliced
-* 4 ounces dry vermouth
+    - One 6-pound whole chicken, cut into 8 pieces
+    - Kosher salt and freshly cracked black pepper
+    - Olive oil, for cooking
+    - 3 cloves garlic, sliced
+    - 4 ounces dry vermouth
 * 2 beefsteak tomatoes, cut into eighths
 * 1/2 cup pitted green olives (your favorite kind)
 * Small bundle fresh oregano, tied with butcher's twine

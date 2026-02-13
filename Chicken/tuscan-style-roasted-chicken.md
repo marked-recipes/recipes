@@ -6,6 +6,7 @@ difficulty: Medium
 tags:
   - italian
   - dinner
+  - grill
 ---
 
 ## Ingredients

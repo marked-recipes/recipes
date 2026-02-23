@@ -7,6 +7,7 @@ tags:
   - italian
   - dinner
   - grill
+  - chicken
 ---
 
 ## Ingredients

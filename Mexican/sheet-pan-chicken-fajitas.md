@@ -13,7 +13,6 @@ credit: Erica Kastner
 
 ## Ingredients
 
-- [ ] 1 (about 16-ounce) package frozen puff pastry, preferably all-butter, thawed in the refrigerator according to package directions
 - [ ] FOR THE FAJITA SEASONING
 - [ ] 2 tsp. Onion Powder
 - [ ] 1 tsp. Garlic Powder

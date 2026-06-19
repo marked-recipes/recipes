@@ -20,7 +20,18 @@ credit: Lisa Bryan
 - [ ] 2 tablespoons olive oil
 - [ ] 1/2 lime
 - [ ] Fajita Seasoning
+- [ ] 1/2 tablespoon chili powder
+- [ ] 1/2 tablespoon ground cumin
+- [ ] 1 teaspoon garlic powder
+- [ ] 1/2 teaspoon paprika
+- [ ] 1/2 teaspoon oregano
+- [ ] 1/2 teaspoon salt
+- [ ] 1/4 teaspoon pepper
 - [ ] For Serving
+- [ ] tortillas
+- [ ] sour cream
+- [ ] pico de gallo
+- [ ] avocado
 
 ## Instructions
 

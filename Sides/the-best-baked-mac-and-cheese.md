@@ -18,8 +18,8 @@ credit: Trish - Mom On Timeout
 - [ ] 1/3 cup all purpose flour 
 - [ ] 3 cups whole milk 
 - [ ] 1 cup heavy whipping cream 
-- [ ] 4 cups sharp cheddar cheeseshredded 
-- [ ] 2 cups Gruyere cheeseshredded 
+- [ ] 4 cups sharp cheddar cheese shredded 
+- [ ] 2 cups Gruyere cheese shredded 
 - [ ] salt and pepper to taste 
 - [ ] 1 1/2 cups panko crumbs 
 - [ ] 4 tbsp buttermelted 

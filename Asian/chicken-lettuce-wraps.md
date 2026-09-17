@@ -1,7 +1,8 @@
 ---
 title: Asian Chicken Lettuce Wraps (better than P.F. Chang’s)!
 prep_time: 10
-servings: 4
+cook_time: 20
+servings: 6
 difficulty: Easy
 tags:
   - chicken

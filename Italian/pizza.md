@@ -9,13 +9,13 @@ tags:
 ---
 
 ## Ingredients
-### Dough
+- [ ] Dough
 - [ ] Ingredients for one pizza: 280 grams / 9.9 oz
 - [ ] 170g (6oz) 'zero zero'/all purpose flour
 - [ ] 100ml/ 3.5 oz water
 - [ ] 1 pinch of fresh yeast - 0.5 grams / 0.018oz
 - [ ] 1 teaspoon of salt - 5 grams / 0.17 oz
-### Toppings
+- [ ] Toppings
 - [ ] 100g of peeled tomatoes (Roma style)
 - [ ] 1 teaspoon of salt
 - [ ] Dry oregano (not fresh)

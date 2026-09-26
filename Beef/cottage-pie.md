@@ -1,8 +1,7 @@
 ---
-title: ○  1 tablespoon olive oil
+title: Cottage Pie
 difficulty: Easy
 tags:
-- chicken
 - beef
 ---
 
@@ -24,7 +23,6 @@ tags:
 - [ ] ○ 1 large quantity mashed potatoes ( estimating 1L or 6 cups, fresh or leftover)
 - [ ] ○ 1 egg, beaten
 - [ ] ○ grated parmesan cheese (optional)
-- [ ] D irections
 
 ## Instructions
 

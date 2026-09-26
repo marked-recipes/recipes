@@ -28,12 +28,12 @@ tags:
 
 - [ ] Pre-heat oven to 200C /400°F.
 - [ ] Saute carrots in the olive oil until starting to get tender.
-- [ ] A dd in the onions and saute for a minute or two then add the meat.
+- [ ] Add in the onions and saute for a minute or two then add the meat.
 - [ ] Season with black pepper and thyme. Page 2 of 2 Traditional Irish Shepherd's Pie (cont.) D irections
-- [ ] C ook until browned then drain fat.
+- [ ] Cook until browned then drain fat.
 - [ ] A dd the butter and peas.
 - [ ] Sprinkle with flour and stir through.
-- [ ] A dd tomato paste, wine and Worcestershire sauce.
+- [ ] Add tomato paste, wine and Worcestershire sauce.
 - [ ] Let this reduce slightly then add the chicken stock. A llow to reduce down until you have a thick meaty gravy. Season to your taste.
 - [ ] Remove from heat. Grease an oven proof dish** (9x13 works for me, as does an oval baker) with butter and add the sauce.
 - [ ] Spoon or pipe the mashed potatoes over top. B rush with egg and sprinkle with Parmesan cheese if using.

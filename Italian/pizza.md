@@ -1,7 +1,7 @@
 ---
 title: Pizza
 prep_time: 24 hours+
-cook_time: 30
+cook_time: 7-10 minutes
 servings: 4
 difficulty: Medium
 tags:

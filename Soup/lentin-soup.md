@@ -29,5 +29,5 @@ credit: Dorinda Mosca
 - [ ] The following vegetables are finely chopped and added to the olive oil.
 - [ ] Add one medium onion, one garlic clove, two or three stalks celery, two or three carrots.
 - [ ] Simmer for about five minutes.
-- [ ] Salt to taste.1
+- [ ] Salt to taste.
 - [ ] Add lentils, one half cup crushed canned tomatoes, one cup of water, and one can of chicken broth as lentils thicken. Bon Appetite

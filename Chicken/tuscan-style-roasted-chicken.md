@@ -8,11 +8,12 @@ tags:
   - dinner
   - grill
   - chicken
+credit: Michael Symon
+source: https://www.foodnetwork.com/profiles/talent/michael-symon
 ---
 
 ## Ingredients
 
-### For the Dough
 - [ ] One 6-pound whole chicken, cut into 8 pieces
 - [ ] Kosher salt and freshly cracked black pepper
 - [ ] Olive oil, for cooking

@@ -1,6 +1,7 @@
 ---
 title: Spinach and Artichoke Dip
-
+prep_time: 5
+cook_time: 7
 ---
 
 ## Ingredients

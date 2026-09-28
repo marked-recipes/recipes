@@ -1,7 +1,7 @@
 ---
 title: Cranberry Whipped Feta Dip
-prep_time: 20
-cook_time: 20
+prep_time: 10
+cook_time: 10
 servings: 4
 difficulty: Easy
 tags:

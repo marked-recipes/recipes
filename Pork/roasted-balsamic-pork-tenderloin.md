@@ -37,7 +37,6 @@ tags:
 - [ ] 1/4 teaspoon red pepper flakes
 
 ## Instructions
-
 - [ ] Prep: Preheat oven to 400 degrees F. Line a half-rimmed baking sheet with foil for easy cleanup and spray with cooking spray. On the counter next to the stove, lay out two long pieces of foil that will be used to enclose each tenderloin separately after searing.
 - [ ] Brine: In a gallon-size freezer bag (I prop it up in a larger bowl), mix kosher salt with warm water until dissolved. Whisk in vinegar, brown sugar and ice then add the pork (make sure pork is submerged). Brine for exactly 20 minutes (meanwhile see steps below). Remove pork from brine, RINSE and pat very dry. The pork can become mealy if left in the brine any longer than 20 minutes.
 - [ ] Spice Mix and Sauce: While the pork is brining, whisk together all of the Spice Mix ingredients in a small bowl. Remove 1 teaspoon to use on the vegetables. In a separate medium bowl, whisk together the Balsamic Sauce ingredients. Lastly, prepare the veggies:
@@ -50,12 +49,12 @@ tags:
 
 ## Notes
 
-## MAKE AHEAD 
+### MAKE AHEAD 
 * This pork tenderloin recipe can be completely prepared ahead of time or prepped up to different stages such as brining, rubbing, searing and making the sauce.  To fully prep ahead:
 * Add the seared pork to a resealable bag along with the balsamic sauce (don’t forget to remove 1 ½ TBS sauce for the veggies). 
 * Place in the refrigerator for up to 12 hours, turning a few times to evenly distribute the balsamic sauce.  Note, you should not store the pork tenderloin in foil with the sauce because a chemical reaction could spoil the pork.
 * When ready to bake, transfer the pork to foil, pour the sauce over top and top with butter.  Let sit at room temperature for 30-60 minutes before baking.
-## HOW TO Store and REHEAT 
+### HOW TO Store and REHEAT 
 * To store:  Store in an airtight container in the refrigerator for up to 5 days.
 * To freeze: Freeze pork tenderloin whole, chopped or in slices.  Frozen pork tenderloin should be used within 3-4 months.  Thaw in the refrigerator overnight before reheating.
 * Stove:  Heat a drizzle of olive oil in a large skillet over medium-low heat along with a splash of water. Add sliced pork in a single layer and heat through, flipping halfway.

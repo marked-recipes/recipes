@@ -29,7 +29,7 @@ tags:
 - [ ] 1 tsp EACH salt, onion powder
 - [ ] 1/2 teaspoon paprika
 - [ ] 1/4 teaspoon pepper
-## BALSAMIC SAUCE
+### BALSAMIC SAUCE
 - [ ] 1/3 cup balsamic vinegar
 - [ ] 2 tablespoons honey
 - [ ] 1 1/2 tablespoons Dijon mustard

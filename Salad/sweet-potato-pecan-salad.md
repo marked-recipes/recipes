@@ -1,5 +1,5 @@
 ---
-title: Spaghetti alla Carbonara
+title: Sweet Potato Pecan Salad
 prep_time: 20
 cook_time: 60
 servings: 10

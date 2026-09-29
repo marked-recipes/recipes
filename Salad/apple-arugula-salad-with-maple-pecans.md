@@ -1,7 +1,7 @@
 ---
 title: Apple Arugula Salad With Maple Pecans
-prep_time: 40
-cook_time: 25
+prep_time: 10
+cook_time: 10
 servings: 4-6
 tags:
   - apple

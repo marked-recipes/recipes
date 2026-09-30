@@ -2,7 +2,8 @@
 title: Spinach and Bacon Quiche
 prep_time: 10
 cook_time: 45
-
+credit: Lauren Allen
+source: https://tastesbetterfromscratch.com/spinach-and-bacon-quiche/
 ---
 
 ## Ingredients

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Spaghetti and Spinach with Sun-Dried Tomato Cream
 prep_time: 10 minutes
 cook_time: 20 minutes
 Servings: 4

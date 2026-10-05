@@ -1,5 +1,5 @@
 ---
-title: extracted recipe
+title: Pad Thai
 prep_time: 15
 cook_time: 20
 servings: 4

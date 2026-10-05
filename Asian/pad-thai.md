@@ -4,7 +4,8 @@ prep_time: 15
 cook_time: 20
 servings: 4
 difficulty: Easy
-source: Document: Pad Thai - Tastes Better From Scratch.pdf
+source: https://tastesbetterfromscratch.com/pad-thai/
+credit: Lauren Allen
 ---
 
 ## Ingredients

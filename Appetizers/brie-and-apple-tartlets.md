@@ -1,4 +1,3 @@
-## Let me check that repository format. ```markdown
 ---
 title: Brie and Apple Tartlets
 prep_time: 15 mins

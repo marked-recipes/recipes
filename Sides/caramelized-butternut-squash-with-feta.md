@@ -48,8 +48,7 @@ source: Caramelized Butternut Squash with Feta
 * Roast in two stages. Sweet potato needs about 35 minutes and Brussels sprouts about 20, so putting all four in together guarantees one of them is wrong.
 * Halve the sprouts, never quarter them, and lay them cut side down. That flat face against hot metal is where the crust comes from. Leave the loose outer leaves on the tray, they crisp into the best bit.
 * The glaze has a narrow window. Use the back-of-a-spoon test rather than the clock.
-* The dried cranberries are the red pieces in the photograph. A reader asked why they were missing
-from the ingredients, and she was right.
+* The dried cranberries are the red pieces in the photograph. A reader asked why they were missing from the ingredients, and she was right.
 * Rosemary goes on in whole sprigs; thyme is scattered as loose leaves. Chopped rosemary through the tray is too strong.
 * Fresh cranberries in the glaze: add 1/2 cup with the juice and honey and simmer about 8 minutes until they pop. It comes out tarter.
 * Holiday make-ahead: roast the day before but pull it 5 minutes early, cool, refrigerate, then 8 to 10 minutes at 425F before serving. Glaze and top after that.

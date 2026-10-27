@@ -2,7 +2,7 @@
 title: Baked Sausage and Potatoes
 prep_time: 20
 cook_time: 60
-servings: 8
+servings: 6
 difficulty: Easy
 tags:
   - italian

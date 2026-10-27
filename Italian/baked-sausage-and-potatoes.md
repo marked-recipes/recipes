@@ -12,7 +12,7 @@ credit: Giovanni Siracusa
 ---
 
 ## Ingredients
-- [ ] 1lb (450g) Italian sausage (remove casing)
+- [ ] 1 lb (450g) Italian sausage (remove casing)
 - [ ] 2 Ibs (900g) Yukon Gold potatoes
 - [ ] 1/4 cup (60ml) white wine
 - [ ] 1 cup (240ml) water

@@ -14,23 +14,23 @@ source: Caramelized Butternut Squash with Feta
 
 ### For the roasted vegetables
 - [ ] 1 cup butternut squash, diced 3/4 inch
-1 cup sweet potato, diced 3/4 inch
-1 cup carrots, sliced on the diagonal
-1 cup Brussels sprouts, halved (not quartered)
-3 tbsp olive oil, divided
-1 tbsp maple syrup
-1/2 tsp cinnamon or smoked paprika (optional)
-Salt and black pepper, to taste
+- [ ] 1 cup sweet potato, diced 3/4 inch
+- [ ] 1 cup carrots, sliced on the diagonal
+- [ ] 1 cup Brussels sprouts, halved (not quartered)
+- [ ] 3 tbsp olive oil, divided
+- [ ] 1 tbsp maple syrup
+- [ ] 1/2 tsp cinnamon or smoked paprika (optional)
+- [ ] Salt and black pepper, to taste
 ### For the cranberry-honey glaze
-1/2 cup unsweetened cranberry juice
-2 tbsp honey
-1 tbsp balsamic vinegar
-Pinch of salt
+- [ ] 1/2 cup unsweetened cranberry juice
+- [ ] 2 tbsp honey
+- [ ] 1 tbsp balsamic vinegar
+- [ ] Pinch of salt
 ### To finish
-1/2 cup feta, crumbled
-1/3 cup walnuts, toasted and chopped
-2 tbsp dried cranberries
-2 rosemary sprigs, or 1 tbsp fresh thyme leaves
+- [ ] 1/2 cup feta, crumbled
+- [ ] 1/3 cup walnuts, toasted and chopped
+- [ ] 2 tbsp dried cranberries
+- [ ] 2 rosemary sprigs, or 1 tbsp fresh thyme leaves
 
 ## Instructions
 

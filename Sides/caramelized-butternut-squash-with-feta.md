@@ -37,18 +37,49 @@ Pinch of salt
 - [ ] Heat the oven to 400F with a bare metal sheet pan inside. Parchment insulates the vegetables from the hot metal and costs you the browning.
 - [ ] FIRST STAGE: toss the butternut squash, sweet potato and carrots with 2 tbsp of the olive oil, the maple syrup, salt, pepper and the cinnamon or paprika. Spread on the hot pan with space between the pieces and roast 15 minutes. These three are dense and need the head start.
 - [ ] SECOND STAGE: toss the halved sprouts with the remaining 1 tbsp oil and a pinch of salt. Take the tray out, turn the vegetables, then add the sprouts CUT SIDE DOWN and roast 18 to 20 minutes more. Brussels sprouts want 20 minutes at most; past that they turn grey and smell of cabbage.
-- [ ] While it roasts, simmer the cranberry juice, honey,
-balsamic and a pinch of salt over mediu
-m-low
-heat for 8 to 10 minutes. Test it: draw a line through the coating on the back of a spoon and it
-should hold for a second. Past about 11 minutes honey turns to hard caramel; if that happens, stir
-in 1 tbsp hot water off the heat.
-- [ ] Toast the walnuts in a dry pan for 2 to 3 minutes and tip them straight onto a plate. Left in the hot
-pan they keep cooking and turn bitter. Never roast them on the tray.
-- [ ] Tip the vegetables onto a platter and pour the warm glaze over while everything is still hot. Glaze
-onto cooled vegetables sets on contact instead of running into the gaps.
+- [ ] While it roasts, simmer the cranberry juice, honey, balsamic and a pinch of salt over medium-low heat for 8 to 10 minutes. Test it: draw a line through the coating on the back of a spoon and it should hold for a second. Past about 11 minutes honey turns to hard caramel; if that happens, stir in 1 tbsp hot water off the heat.
+- [ ] Toast the walnuts in a dry pan for 2 to 3 minutes and tip them straight onto a plate. Left in the hot pan they keep cooking and turn bitter. Never roast them on the tray.
+- [ ] Tip the vegetables onto a platter and pour the warm glaze over while everything is still hot. Glaze onto cooled vegetables sets on contact instead of running into the gaps.
 - [ ] Scatter the feta, toasted walnuts and dried cranberries over the top.
 - [ ] Lay the rosemary sprigs across the tray, or scatter thyme leaves through. Serve warm.
 
 ## Notes
 
+* Roast in two stages. Sweet potato needs about 35 minutes and Brussels sprouts about 20, so putting all four in together guarantees one of them is wrong.
+* Halve the sprouts, never quarter them, and lay them cut side down. That flat face against hot metal is
+where the crust comes from. Leave the loose outer leaves on the tray, they crisp into the best bit.
+* The glaze has a narrow window. Use the back-of-a-spoon test rather than the clock.
+* The dried cranberries are the red pieces in the photograph. A reader asked why they were missing
+from the ingredients, and she was right.
+* Rosemary goes on in whole sprigs; thyme is scattered as loose leaves. Chopped rosemary through the tray is too strong.
+* Fresh cranberries in the glaze: add 1/2 cup with the juice and honey and simmer about 8 minutes until they pop. It comes out tarter.
+Holiday make-ahead: roast the day before but p
+ull it 5 minutes early,
+cool, refrigerate, then 8 to 10
+minutes at 425F before serving. Glaze and top after that.
+10/26/26, 9:41 PM Caramelized Butternut Squash with Feta - Easy 35-Min Side
+https://recipesbysylvia.com/caramelized-butternut-squash-carrots-brussels-sprouts/print/5400/ 2/3
+Serving Size: 1 cu
+p Calories: 335 Sugar: 20 S
+odium: 280 Fa
+t: 21 Sa
+tura
+ted Fa
+t: 5
+Unsa
+tura
+ted Fa
+t: 12 Trans Fa
+t: 0 Carb
+o
+hydra
+tes: 32 Fiber: 6 Protein: 5 Ch
+olesterol: 20
+Nutrition
+Find it online: https://recipesbysylvia.c
+om/c
+aramelized-butternut-squa
+sh-c
+arrots-brussels-sprouts/
+Keeps 4 days and is good cold.
+Reheat spread out at 425F for 8 minutes. Do not freeze.

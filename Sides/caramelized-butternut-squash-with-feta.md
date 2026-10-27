@@ -53,33 +53,5 @@ where the crust comes from. Leave the loose outer leaves on the tray, they crisp
 from the ingredients, and she was right.
 * Rosemary goes on in whole sprigs; thyme is scattered as loose leaves. Chopped rosemary through the tray is too strong.
 * Fresh cranberries in the glaze: add 1/2 cup with the juice and honey and simmer about 8 minutes until they pop. It comes out tarter.
-Holiday make-ahead: roast the day before but p
-ull it 5 minutes early,
-cool, refrigerate, then 8 to 10
-minutes at 425F before serving. Glaze and top after that.
-10/26/26, 9:41 PM Caramelized Butternut Squash with Feta - Easy 35-Min Side
-https://recipesbysylvia.com/caramelized-butternut-squash-carrots-brussels-sprouts/print/5400/ 2/3
-Serving Size: 1 cu
-p Calories: 335 Sugar: 20 S
-odium: 280 Fa
-t: 21 Sa
-tura
-ted Fa
-t: 5
-Unsa
-tura
-ted Fa
-t: 12 Trans Fa
-t: 0 Carb
-o
-hydra
-tes: 32 Fiber: 6 Protein: 5 Ch
-olesterol: 20
-Nutrition
-Find it online: https://recipesbysylvia.c
-om/c
-aramelized-butternut-squa
-sh-c
-arrots-brussels-sprouts/
-Keeps 4 days and is good cold.
-Reheat spread out at 425F for 8 minutes. Do not freeze.
+* Holiday make-ahead: roast the day before but pull it 5 minutes early, cool, refrigerate, then 8 to 10 minutes at 425F before serving. Glaze and top after that.
+

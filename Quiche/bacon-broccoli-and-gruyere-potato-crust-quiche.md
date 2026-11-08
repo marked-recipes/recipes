@@ -1,7 +1,7 @@
 ---
 title: Bacon, Broccoli & Gruyère Potato Crust Quiche
 prep_time: 20
-cook_time: 45
+cook_time: 70
 credit: Katie Bien
 source: https://www.facebook.com/p/Katie-Bien-61589175146749/
 tags:

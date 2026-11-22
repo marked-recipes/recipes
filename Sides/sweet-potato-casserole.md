@@ -15,7 +15,7 @@ tags:
 
 ### Casserole
 - [ ] 3 sweet potatoes, cooked and mashed
-- [ ] 1 cup sugar
+- [ ] 1/3 cup sugar
 - [ ] 2 eggs
 - [ ] 1 tsp vanilla
 - [ ] 1 stick margarine

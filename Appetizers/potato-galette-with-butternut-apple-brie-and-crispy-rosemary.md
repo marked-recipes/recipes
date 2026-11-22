@@ -16,7 +16,7 @@ credit: Mediterranean Glow Kitchen
 - [ ] 1 medium Honeycrisp apple, thinly sliced
 - [ ] 5 oz (140 g) Brie cheese, sliced
 - [ ] 2 tbsp olive oil
-- [ ] [ ] 1 tbsp melted butter
+- [ ] 1 tbsp melted butter
 - [ ] 1 tsp fresh thyme leaves
 - [ ] ½ tsp garlic powder
 - [ ] ½ tsp smoked paprika
